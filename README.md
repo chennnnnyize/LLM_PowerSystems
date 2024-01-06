@@ -9,3 +9,20 @@
 Monash University & Hong Kong University of Science and Technology
 
 ![image](https://github.com/chennnnnyize/LLM_PowerSystems/assets/116547738/1048616c-9b7c-4909-bfbf-da630c5ac556)
+
+## Introduction
+Foundation models, such as Large Language Models (LLMs), can respond to a wide range of format-free queries
+without any task-specific data collection or model training,
+creating various research and application opportunities for the
+modeling and operation of large-scale power systems. Here we investigate
+the potential of existing foundation models by validating their
+performance on four representative tasks across power system
+domains, including the optimal power flow (OPF), electric vehicle
+(EV) scheduling, knowledge retrieval for power engineering technical reports, and situation awareness. Our results indicate strong
+capabilities of such foundation models on boosting the efficiency
+and reliability of power system operational pipelines. 
+
+## Instructions
+
+
+## Getting Started
