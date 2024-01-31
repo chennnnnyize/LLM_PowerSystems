@@ -23,7 +23,7 @@ capabilities of such foundation models on boosting the efficiency
 and reliability of power system operational pipelines. 
 
 ## Instructions
-To run LLM for different tasks, now we support running .py files to query pre-trained models. We included GPT as trained LLMs in this repo. Simply modify the key in each Python script, and the tasks can be implemented.
+To run LLM for different tasks, now we support running .py files to query pre-trained models. We included GPT as trained LLMs in this repo. Simply modify the OpenAI key in each Python script, switch between different models of GPT, and the tasks can be implemented.
 
 ## Getting Started
 
